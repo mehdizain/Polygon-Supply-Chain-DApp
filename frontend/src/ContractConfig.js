@@ -1,0 +1,2 @@
+export const CONTRACT_ADDRESS = "0x6db85cD5DaF9aD3e034214fcAdDa8917b35A0349";
+export const AMOY_CHAIN_ID = "0x13882"; // 80002 in hex
